@@ -1,0 +1,46 @@
+/* Medium Layout: 1280px. */
+@media only screen and (min-width: 992px) and (max-width: 1200px) { 
+  
+    
+}
+/* Tablet Layout: 768px. */
+@media only screen and (min-width: 768px) and (max-width: 991px) { 
+ 
+
+}
+/* Mobile Layout: 320px. */
+@media only screen and (max-width: 767px) { 
+ .header_area #nav ul li {
+  display: block;
+
+}
+.slide_text_table_cell h1 {
+  font-size: 50px;
+}
+.slide_text_table_cell h3 {
+  font-size: 45px;
+
+}
+.workspace-heading h1 {
+  font-size: 40px;
+
+}
+.about_us p {
+  padding: 0 5px;
+}
+.page_title h2 {
+  font-size: 65px;
+  text-transform: uppercase;
+}
+.wpcf7-form-control {
+  width: 100%;
+}
+.contactus_area label {
+
+  width: 100%;
+}
+}
+/* Wide Mobile Layout: 480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) { 
+
+}
